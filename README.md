@@ -26,5 +26,5 @@ I believe in the power of collaboration to unlock new insights and reach greater
 
 I'm eager to connect with professionals, mentors, and fellow data enthusiasts in the field. If you have advice, opportunities, or simply want to talk data, here's how you can reach me:
 
-    LinkedIn: (https://www.linkedin.com/in/accharef-b247b924b/)https://www.linkedin.com/in/accharef-b247b924b/
+    LinkedIn: https://www.linkedin.com/in/accharef-b247b924b/
     Email: achraf20.charef@gmail.com
