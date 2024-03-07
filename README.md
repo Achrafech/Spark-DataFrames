@@ -19,12 +19,4 @@ Before embarking on this adventure, ensure you have the following tools ready:
 - Python 3.6+ and Apache Spark (detailed version here)
 - Jupyter Notebook for an interactive coding experience
 
-🌟 How You Can Contribute
 
-I believe in the power of collaboration to unlock new insights and reach greater heights. Whether it's feedback on the notebook, suggestions for improvement, or discussions about data engineering challenges, your input is highly valued. Feel free to fork the repo, make your contributions, and initiate a pull request.
-📫 Let's Connect!
-
-I'm eager to connect with professionals, mentors, and fellow data enthusiasts in the field. If you have advice, opportunities, or simply want to talk data, here's how you can reach me:
-
-    LinkedIn: https://www.linkedin.com/in/accharef-b247b924b/
-    Email: achraf20.charef@gmail.com
